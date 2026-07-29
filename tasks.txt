@@ -1,0 +1,3 @@
+play football | False
+sketch up practicing | False
+ear breakfast | False
